@@ -1,0 +1,16 @@
+#el-content{margin-top: 10px;}
+#el-content img{display: block; width: 100px;height:100px;margin: 0 auto;}
+#el-content .panel-body p{text-align: center;padding-bottom: 40px;}
+@font-face {
+	font-family:renzheng;
+	src: url(../IcoMoon.ttf) format('truetype');
+}
+#el-content .panel-body .el-font::after{content:"\e971";font-family: renzheng;font-size: 20px;background: #5CB85C;color: #fff;text-align: center;}
+#el-content .el-td td:nth-child(1){width: 80px; color: #999;font-size: 16px;padding: 5px 0;} 
+#el-content .el-td td:nth-child(2){padding-left: 10px;font-size:16px ;}
+#jd{width: 100%;}
+#el-content .progress-bar-info{background: #5BC0DE;}
+#el-content tr{min-width: 25%;}
+#el-content .el-size thead>tr{ font: bold 16px "微软雅黑";}
+#el-content .el-size tbody>tr{font: 16px "微软雅黑";}
+.jin_e>tr>td:nth-child(3){color: #00B1E9;}

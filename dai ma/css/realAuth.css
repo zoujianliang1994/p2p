@@ -1,0 +1,17 @@
+#el-form .el-biaodan{width: 260px;border-radius: 4px;}
+#el-form .el-dizhi{width: 500px;border-radius: 4px;}
+#el-form .el-select{width:180px;}
+.el-zaopian{    
+	width: 160px;
+    height: 150px;
+    float: left;
+    margin-right: 10px;
+    border: 1px solid #e3e3e3;
+    text-align: center;
+    padding: 5px;
+    }
+.el-zaopian .texts{width: 148px;height: 20px;color: #fff;background: #337AB7;}
+.el-to-img{    
+	width: 120px;
+    height: 100px;
+    margin-top: 5px;}

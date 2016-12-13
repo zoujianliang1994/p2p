@@ -1,0 +1,8 @@
+.el_dl{font:bold 20px/80px "微软雅黑";color: #337AC5;padding-left:120px ;}
+#el-content .el-top-info{background:#F4F8FA ;border-left: 3px solid #0099DD;padding: 20px;margin-bottom: 20px;margin-top: 5px;}
+#el-content .tab-content{border: 1px solid #DDDDDD;border-top: 0;padding: 0 20px;}
+#el-content .el-image{display: block;background:url(../img/bank_list.png) no-repeat;width: 150px;height: 30px;}
+#el-content .el-bank2{background-position:1px -36px;}
+#el-content .el-bank3{background-position:1px -72px;}
+#el-content .el-xiala p{color: #337AC6;}
+

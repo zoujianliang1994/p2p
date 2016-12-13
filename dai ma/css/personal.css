@@ -1,0 +1,13 @@
+/**/
+.el-content{margin-bottom: 40px;margin-top:5px ;}
+#el-list>div{border: 1px solid #ddd;padding: 0px;border-radius: 5px;}
+#el-list .list-group{margin: 0; border: 0;}
+#el-list .list-group a{border:0; padding-left: 80px;border-radius: 0;color: #337EB9;}
+#el-list .list-group a::hover{color: #23527C;}
+#el-list .list-group a:nth-child(1){background-color:#F5F5F5;padding-left:20px;border-bottom: 1px solid #ddd;}
+#el-list .list-group a.box{background-color:#337AB7;color: #fff;}
+.el-account-info{    border-bottom: 1px solid #ddd; padding-bottom: 16px;}
+.el-head-img{border: 1px solid #ddd;padding: 10px;}
+.el-head-img img{width: 72px;height: 72px;}
+.el-head{margin-left: 10px;}
+.el-account span{color: #337EB9;}

@@ -1,0 +1,22 @@
+
+/*轮播*/
+.el-banner{margin: 8px 10px;}
+/*栅格*/
+/*.el-feature{height: 80px;overflow: hidden;}*/
+.el-feature dl{padding-left:75px;margin-bottom: 20px;padding-right: 0px;height: 76px;}
+.el-feature dl:nth-child(1){background: url(../img/feature01.png) no-repeat;}
+.el-feature dl:nth-child(2){background: url(../img/feature02.png) no-repeat;}
+.el-feature dl:nth-child(3){background: url(../img/feature03.png) no-repeat;}
+.el-feature dl>dt{font:bold 20px "微软雅黑";margin-bottom: 10px;}
+.el-feature dl>dd{color: #888;}
+/*面板*/
+.el-panel .panel-heading{height: 40px;border-bottom: 1px solid #888;margin: 10px 0 16px 0;padding: 0;}
+.el-panel .panel-heading span{display: block; font:bold 24px/28px "微软雅黑";color: #2E8ECE;border-bottom: 3px solid #2E8ECE;padding-bottom: 8px;}
+.el-panel .panel-heading a{display:block;font-size: 14px;padding-bottom:10px ;}
+.el-panel table tbody td{padding: 8px;}
+.el-panel table tbody td>a{display: block;width:46px; height:30px;padding: 8px;background-color: #C9302C;color: #fff;border-radius: 2px;text-align: center;line-height: 18px;}
+/*面板列表*/
+.el-list ul{margin: 0;padding: 0;}
+.el-list ul>li{list-style-type: none;overflow: hidden;line-height: 38px; font-size: 14px;border-bottom: 1px dotted #eee;}
+.el-list ul>li a{color: #333333;}
+

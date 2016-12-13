@@ -1,0 +1,23 @@
+#el-top {
+  border-radius: 0;
+  background-color: #000000;
+  margin: 0;
+}
+#el-top a {
+  color: #fff;
+}
+#el-top .call {
+  font-size: 24px;
+  font-family:myfont ;
+}
+#el-top .call::before{content:"\e942";}
+@font-face{
+	font-family:myfont;
+	src:url(../IcoMoon.ttf) format('truetype');
+}
+.daohang{margin: 0;}
+.img{height: 80px;line-height: 80px;}
+ul>li{display: block;height: 40px;position: relative;z-index: 99;}
+.li>li>a{text-align: center;line-height: 80px;padding: 0 15px;}
+.el-img{display: none;position: absolute;top:40px ;left: 0%;}
+.el-footer{padding: 30px;background: #F8F8F8;}

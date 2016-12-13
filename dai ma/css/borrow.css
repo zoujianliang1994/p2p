@@ -1,0 +1,35 @@
+/*.el-top{background: #333333;margin: 0;border-radius: 0;}
+#li a{color: #fff;}*/
+#el-content {margin-top: 30px;margin-bottom: 30px;}
+#el-content .col-sm-4{padding:0 15px ;}
+#el-content .col-sm-4 div:nth-child(2){padding: 14px;background: #F9F9F9;}
+#el-content .el-title{font-size: 24px;
+    font-weight: 300;
+    line-height: 48px;
+    padding-left: 20px;
+    color: #FFFFFF;
+    }
+#el-content p:nth-child(1){font-size: 16px;} 
+#el-content p:nth-child(2){margin-bottom:6px ;}
+#el-content p:nth-child(3){margin-top: 5px;color: #737373;} 
+#el-content p.btn a{
+	text-decoration: none;
+	width: 80px;
+    height: 30px;
+    line-height: 30px;
+	display: block;
+	margin: 0 auto;
+    border-radius: 20px;
+    background: #00a8ff;
+    color: #fff;
+    text-align: center;
+}
+#el-content ul{list-style: none;padding-left: 10px;margin: 10px 0;}
+#el-content ul>li{
+	color: #555;
+    font-size: 14px;
+    padding-left: 20px;
+    margin-top: 5px;
+    background: url(../img/sequare.png) left center no-repeat;
+}
+  

@@ -1,0 +1,17 @@
+#el-content form{margin-bottom:20px ;}
+#el-content form .btn-group{margin-left: 30px;}
+#el-content form .btn{border: 1px solid #ddd;}
+#el-content form span{padding-top:8px ; color: #777;}
+#el-content table tbody {font-size: 16px;}
+#el-content table td>a{
+	display: block;
+	font-size: 14px;
+    width: 46px;
+    height: 30px;
+    padding: 8px;
+    background-color: #C9302C;
+    color: #fff;
+    border-radius: 2px;
+    text-align: center;
+    line-height: 18px;
+}
